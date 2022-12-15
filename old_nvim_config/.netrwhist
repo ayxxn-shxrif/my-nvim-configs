@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/ayxxnshxrif'
+let g:netrw_dirhist_6='/home/ayxxnshxrif/learn'
+let g:netrw_dirhist_5='/home/ayxxnshxrif'
+let g:netrw_dirhist_4='/home/ayxxnshxrif/Desktop'
+let g:netrw_dirhist_3='/home/ayxxnshxrif'
+let g:netrw_dirhist_2='/home/ayxxnshxrif/Documents'
+let g:netrw_dirhist_1='/home/ayxxnshxrif'
